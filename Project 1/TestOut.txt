@@ -1,0 +1,1620 @@
+PROCESSING COMMAND: create s5wot queue
+PROCESSING COMMAND: pop sare8
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop dhew
+ERROR: This name does not exist!
+PROCESSING COMMAND: push sflu8 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s0raj
+ERROR: This name does not exist!
+PROCESSING COMMAND: push s5wot anonym
+PROCESSING COMMAND: pop s5wot
+Value popped: anonym
+PROCESSING COMMAND: create s5wot stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop s5wot
+ERROR: This list is empty!
+PROCESSING COMMAND: pop s5wot
+ERROR: This list is empty!
+PROCESSING COMMAND: create s5wot queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: create s5wot stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push s5wot linden
+PROCESSING COMMAND: push s5wot upgird
+PROCESSING COMMAND: pop s5wot
+Value popped: linden
+PROCESSING COMMAND: pop s5wot
+Value popped: upgird
+PROCESSING COMMAND: create dyon stack
+PROCESSING COMMAND: push dyon 12.1
+PROCESSING COMMAND: pop s5wot
+ERROR: This list is empty!
+PROCESSING COMMAND: pop dyon
+Value popped: 12.1
+PROCESSING COMMAND: pop dyon
+ERROR: This list is empty!
+PROCESSING COMMAND: push dyon 30
+PROCESSING COMMAND: push dyon 14.5
+PROCESSING COMMAND: push dyon 23.1
+PROCESSING COMMAND: push dyon -7
+PROCESSING COMMAND: push dyon 0.5
+PROCESSING COMMAND: pop dyon
+Value popped: 0.5
+PROCESSING COMMAND: pop s5wot
+ERROR: This list is empty!
+PROCESSING COMMAND: pop dyon
+Value popped: -7
+PROCESSING COMMAND: push dyon -2
+PROCESSING COMMAND: pop ssag
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s5wot
+ERROR: This list is empty!
+PROCESSING COMMAND: push dyon 9.6
+PROCESSING COMMAND: push dyon -9.9
+PROCESSING COMMAND: push dyon -20.4
+PROCESSING COMMAND: push dyon 22.1
+PROCESSING COMMAND: pop s5wot
+ERROR: This list is empty!
+PROCESSING COMMAND: push s5wot vanned
+PROCESSING COMMAND: pop s5wot
+Value popped: vanned
+PROCESSING COMMAND: push s5wot wanned
+PROCESSING COMMAND: pop s5wot
+Value popped: wanned
+PROCESSING COMMAND: pop dyon
+Value popped: 22.1
+PROCESSING COMMAND: pop dyon
+Value popped: -20.4
+PROCESSING COMMAND: pop dyon
+Value popped: -9.9
+PROCESSING COMMAND: push s5wot places
+PROCESSING COMMAND: push dyon 10.6
+PROCESSING COMMAND: push dyon -4.2
+PROCESSING COMMAND: pop s5wot
+Value popped: places
+PROCESSING COMMAND: create dyon stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push dyon -9.2
+PROCESSING COMMAND: push s5wot lekvar
+PROCESSING COMMAND: push s5wot recant
+PROCESSING COMMAND: pop s5wot
+Value popped: lekvar
+PROCESSING COMMAND: push dyon -22.6
+PROCESSING COMMAND: pop dyon
+Value popped: -22.6
+PROCESSING COMMAND: push s1rai 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: push dyon -14.6
+PROCESSING COMMAND: create dyon queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push s5wot wanted
+PROCESSING COMMAND: pop dyon
+Value popped: -14.6
+PROCESSING COMMAND: create s5wot stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop s5wot
+Value popped: recant
+PROCESSING COMMAND: pop s5wot
+Value popped: wanted
+PROCESSING COMMAND: push s5wot erects
+PROCESSING COMMAND: pop i8cup
+ERROR: This name does not exist!
+PROCESSING COMMAND: push d4sly6 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop dyon
+Value popped: -9.2
+PROCESSING COMMAND: push s5wot skells
+PROCESSING COMMAND: pop dyon
+Value popped: -4.2
+PROCESSING COMMAND: push s5wot parvis
+PROCESSING COMMAND: push dyon -2
+PROCESSING COMMAND: push s5wot rerose
+PROCESSING COMMAND: push dyon -9.5
+PROCESSING COMMAND: pop s5wot
+Value popped: erects
+PROCESSING COMMAND: push s5wot unseat
+PROCESSING COMMAND: pop s5wot
+Value popped: skells
+PROCESSING COMMAND: push s5wot anergy
+PROCESSING COMMAND: pop dyon
+Value popped: -9.5
+PROCESSING COMMAND: push s5wot unclog
+PROCESSING COMMAND: pop s5wot
+Value popped: parvis
+PROCESSING COMMAND: push s5wot crouse
+PROCESSING COMMAND: create dyon queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push s5wot bookoo
+PROCESSING COMMAND: pop dyon
+Value popped: -2
+PROCESSING COMMAND: create s5wot queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop dyon
+Value popped: 10.6
+PROCESSING COMMAND: create s5wot queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push dyon 2.2
+PROCESSING COMMAND: pop s5wot
+Value popped: rerose
+PROCESSING COMMAND: push s5wot lierne
+PROCESSING COMMAND: create dyon queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: create dyon queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop sfor3
+ERROR: This name does not exist!
+PROCESSING COMMAND: push dyon 3.5
+PROCESSING COMMAND: push s5wot ephahs
+PROCESSING COMMAND: pop s5wot
+Value popped: unseat
+PROCESSING COMMAND: push dyon -10.2
+PROCESSING COMMAND: pop s5wot
+Value popped: anergy
+PROCESSING COMMAND: pop dyon
+Value popped: -10.2
+PROCESSING COMMAND: push dyon -25.3
+PROCESSING COMMAND: pop s5wot
+Value popped: unclog
+PROCESSING COMMAND: push dyon -28.2
+PROCESSING COMMAND: create s5wot queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop dyon
+Value popped: -28.2
+PROCESSING COMMAND: pop s5wot
+Value popped: crouse
+PROCESSING COMMAND: push s5wot mensal
+PROCESSING COMMAND: push s5wot abator
+PROCESSING COMMAND: pop i0ebb
+ERROR: This name does not exist!
+PROCESSING COMMAND: push s5wot purvey
+PROCESSING COMMAND: pop s5wot
+Value popped: bookoo
+PROCESSING COMMAND: push s5wot ataxia
+PROCESSING COMMAND: pop dyon
+Value popped: -25.3
+PROCESSING COMMAND: pop s5wot
+Value popped: lierne
+PROCESSING COMMAND: create s5wot queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop s3auk5
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop dyon
+Value popped: 3.5
+PROCESSING COMMAND: pop s5wot
+Value popped: ephahs
+PROCESSING COMMAND: pop dyon
+Value popped: 2.2
+PROCESSING COMMAND: create s5boa stack
+PROCESSING COMMAND: push s2vis 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: create s5boa queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push s5boa dimmed
+PROCESSING COMMAND: create ssit7 stack
+PROCESSING COMMAND: pop s5boa
+Value popped: dimmed
+PROCESSING COMMAND: create d9nom stack
+PROCESSING COMMAND: create s5wot queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: create s5boa queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop s5boa
+ERROR: This list is empty!
+PROCESSING COMMAND: push dyon -23.3
+PROCESSING COMMAND: push s5wot unpegs
+PROCESSING COMMAND: push s9lad 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop i9mac9
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop dyon
+Value popped: -23.3
+PROCESSING COMMAND: push s5wot punter
+PROCESSING COMMAND: create s5wot queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push s2fet 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: push i7rex 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: push s5wot campos
+PROCESSING COMMAND: pop sgen2
+ERROR: This name does not exist!
+PROCESSING COMMAND: push s5boa county
+PROCESSING COMMAND: create s5boa queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop dyon
+Value popped: 9.6
+PROCESSING COMMAND: create d9nom queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push s5boa brocks
+PROCESSING COMMAND: push dyon -7.5
+PROCESSING COMMAND: push ssit7 aspens
+PROCESSING COMMAND: push sboy6 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: push ssit7 ericas
+PROCESSING COMMAND: pop s5wot
+Value popped: mensal
+PROCESSING COMMAND: pop s5boa
+Value popped: brocks
+PROCESSING COMMAND: push ssit7 wafted
+PROCESSING COMMAND: pop ssit7
+Value popped: wafted
+PROCESSING COMMAND: push ssit7 zaffir
+PROCESSING COMMAND: pop shay
+ERROR: This name does not exist!
+PROCESSING COMMAND: push dnim3 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop dyon
+Value popped: -7.5
+PROCESSING COMMAND: pop i6wap
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s5wot
+Value popped: abator
+PROCESSING COMMAND: push dyon -1.4
+PROCESSING COMMAND: create i6vug5 queue
+PROCESSING COMMAND: push s5wot whaler
+PROCESSING COMMAND: push ssit7 cresol
+PROCESSING COMMAND: push ssit7 finito
+PROCESSING COMMAND: push i6vug5 8914
+PROCESSING COMMAND: pop ssit7
+Value popped: finito
+PROCESSING COMMAND: pop s5boa
+Value popped: county
+PROCESSING COMMAND: pop ssit7
+Value popped: cresol
+PROCESSING COMMAND: push s5boa tromps
+PROCESSING COMMAND: create ssit7 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push ssit7 fences
+PROCESSING COMMAND: push i6vug5 -7050
+PROCESSING COMMAND: pop s5wot
+Value popped: purvey
+PROCESSING COMMAND: push i6vug5 -9550
+PROCESSING COMMAND: push s5wot prills
+PROCESSING COMMAND: pop i6vug5
+Value popped: 8914
+PROCESSING COMMAND: pop s5wot
+Value popped: ataxia
+PROCESSING COMMAND: push ssit7 salvor
+PROCESSING COMMAND: push i6vug5 -1597
+PROCESSING COMMAND: push i6vug5 2012
+PROCESSING COMMAND: pop ikas9
+ERROR: This name does not exist!
+PROCESSING COMMAND: push s5boa deduct
+PROCESSING COMMAND: push ssit7 choose
+PROCESSING COMMAND: pop i4foh
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop ssit7
+Value popped: choose
+PROCESSING COMMAND: create ssit7 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop ssit7
+Value popped: salvor
+PROCESSING COMMAND: pop s5wot
+Value popped: unpegs
+PROCESSING COMMAND: pop i6vug5
+Value popped: -7050
+PROCESSING COMMAND: create s5wot stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push d9nom -19.1
+PROCESSING COMMAND: pop ssit7
+Value popped: fences
+PROCESSING COMMAND: push i6vug5 -9303
+PROCESSING COMMAND: push i6vug5 -6230
+PROCESSING COMMAND: push d9nom -27.1
+PROCESSING COMMAND: create ssit7 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: create s0fub7 queue
+PROCESSING COMMAND: create s5boa stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop s5boa
+Value popped: deduct
+PROCESSING COMMAND: push dyon -6.1
+PROCESSING COMMAND: pop s5boa
+Value popped: tromps
+PROCESSING COMMAND: push s5wot brucin
+PROCESSING COMMAND: pop s5boa
+ERROR: This list is empty!
+PROCESSING COMMAND: pop dyon
+Value popped: -6.1
+PROCESSING COMMAND: create s0fub7 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push i6vug5 5852
+PROCESSING COMMAND: push i6vug5 -3985
+PROCESSING COMMAND: pop dwry
+ERROR: This name does not exist!
+PROCESSING COMMAND: push d9pes 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: push d9nom 15.1
+PROCESSING COMMAND: push d9nom -19.2
+PROCESSING COMMAND: create d9nom stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop d9nom
+Value popped: -19.2
+PROCESSING COMMAND: push d7rod8 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop d9nom
+Value popped: 15.1
+PROCESSING COMMAND: push s5wot disarm
+PROCESSING COMMAND: pop s0fub7
+ERROR: This list is empty!
+PROCESSING COMMAND: push d9nom -23.7
+PROCESSING COMMAND: create d9nom queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push s5boa combes
+PROCESSING COMMAND: pop s5boa
+Value popped: combes
+PROCESSING COMMAND: pop i8rem7
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s5wot
+Value popped: punter
+PROCESSING COMMAND: create ssit7 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop ssit7
+Value popped: zaffir
+PROCESSING COMMAND: push i6vug5 -2630
+PROCESSING COMMAND: create ssit7 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop d9nom
+Value popped: -23.7
+PROCESSING COMMAND: create s0fub7 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop i8foy
+ERROR: This name does not exist!
+PROCESSING COMMAND: push s5wot barman
+PROCESSING COMMAND: push d9nom -6.6
+PROCESSING COMMAND: pop s5boa
+ERROR: This list is empty!
+PROCESSING COMMAND: create i6vug5 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push d9nom -15.2
+PROCESSING COMMAND: pop i6vug5
+Value popped: -9550
+PROCESSING COMMAND: push s5boa dumbos
+PROCESSING COMMAND: push dyon 7.2
+PROCESSING COMMAND: push s6wiz 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: push s5wot burgoo
+PROCESSING COMMAND: pop i6vug5
+Value popped: -1597
+PROCESSING COMMAND: push s0fub7 upsets
+PROCESSING COMMAND: push s5wot casino
+PROCESSING COMMAND: push i6vug5 6332
+PROCESSING COMMAND: push smod3 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: push s5boa diktat
+PROCESSING COMMAND: pop dqis1
+ERROR: This name does not exist!
+PROCESSING COMMAND: create dyon stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop s0fub7
+Value popped: upsets
+PROCESSING COMMAND: pop i6vug5
+Value popped: 2012
+PROCESSING COMMAND: pop s5wot
+Value popped: campos
+PROCESSING COMMAND: pop i6vug5
+Value popped: -9303
+PROCESSING COMMAND: push s5rum 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop d9nom
+Value popped: -15.2
+PROCESSING COMMAND: pop i6vug5
+Value popped: -6230
+PROCESSING COMMAND: create s7ens queue
+PROCESSING COMMAND: push s7ens entoil
+PROCESSING COMMAND: pop ssit7
+Value popped: ericas
+PROCESSING COMMAND: create dyon stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push dyon -8.8
+PROCESSING COMMAND: push s5wot ligase
+PROCESSING COMMAND: push dyon 18.7
+PROCESSING COMMAND: push s5boa inturn
+PROCESSING COMMAND: pop s7ens
+Value popped: entoil
+PROCESSING COMMAND: push ssit7 aortic
+PROCESSING COMMAND: pop dpun5
+ERROR: This name does not exist!
+PROCESSING COMMAND: push i7dal7 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop svie
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop dyon
+Value popped: 18.7
+PROCESSING COMMAND: create s7ens stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push ssit7 welded
+PROCESSING COMMAND: pop s0fub7
+ERROR: This list is empty!
+PROCESSING COMMAND: create s5boa stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push s5boa archly
+PROCESSING COMMAND: push s0fub7 skiing
+PROCESSING COMMAND: push s5boa prison
+PROCESSING COMMAND: pop s0fub7
+Value popped: skiing
+PROCESSING COMMAND: pop ssit7
+Value popped: welded
+PROCESSING COMMAND: push i6vug5 4798
+PROCESSING COMMAND: pop s0fub7
+ERROR: This list is empty!
+PROCESSING COMMAND: create s0fub7 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop s5wot
+Value popped: whaler
+PROCESSING COMMAND: push s5boa bezels
+PROCESSING COMMAND: push d9nom 18
+PROCESSING COMMAND: create dyon stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: create s5wot stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push s5boa backed
+PROCESSING COMMAND: create ssit7 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push dyon -5.5
+PROCESSING COMMAND: push ssit7 pulers
+PROCESSING COMMAND: push s5boa escape
+PROCESSING COMMAND: pop dbad1
+ERROR: This name does not exist!
+PROCESSING COMMAND: push s5wot almner
+PROCESSING COMMAND: create ikir stack
+PROCESSING COMMAND: push dman3 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s0fub7
+ERROR: This list is empty!
+PROCESSING COMMAND: push s5wot dorsum
+PROCESSING COMMAND: create ikir stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push s5wot crumps
+PROCESSING COMMAND: create s5wot queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push s5boa raisin
+PROCESSING COMMAND: create ssit7 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push s5wot italic
+PROCESSING COMMAND: push s7ens unbars
+PROCESSING COMMAND: push d9nom 23.6
+PROCESSING COMMAND: pop ssit7
+Value popped: pulers
+PROCESSING COMMAND: push s0fub7 premen
+PROCESSING COMMAND: pop ssit7
+Value popped: aortic
+PROCESSING COMMAND: pop s7ens
+Value popped: unbars
+PROCESSING COMMAND: pop ikir
+ERROR: This list is empty!
+PROCESSING COMMAND: create s5boa queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop i6vug5
+Value popped: 5852
+PROCESSING COMMAND: create s5boa stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push s5wot whenas
+PROCESSING COMMAND: create ssit7 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop ssit7
+Value popped: aspens
+PROCESSING COMMAND: push d9nom 18.4
+PROCESSING COMMAND: push s0nah 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: push ssit7 snider
+PROCESSING COMMAND: push d3cel 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop d9nom
+Value popped: 18.4
+PROCESSING COMMAND: pop dyon
+Value popped: -5.5
+PROCESSING COMMAND: create ssit7 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop i6vug5
+Value popped: -3985
+PROCESSING COMMAND: push ikir -3775
+PROCESSING COMMAND: push s0fub7 bolshy
+PROCESSING COMMAND: pop ikir
+Value popped: -3775
+PROCESSING COMMAND: push s5boa mujiks
+PROCESSING COMMAND: create sduh stack
+PROCESSING COMMAND: push sduh plaint
+PROCESSING COMMAND: create s7ens queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push ielf9 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: create i6vug5 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push d2att 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: create d9nom queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: create sore3 stack
+PROCESSING COMMAND: pop dyon
+Value popped: -8.8
+PROCESSING COMMAND: pop ikir
+ERROR: This list is empty!
+PROCESSING COMMAND: push i6vug5 6065
+PROCESSING COMMAND: pop d6cor
+ERROR: This name does not exist!
+PROCESSING COMMAND: push d9nom -25.9
+PROCESSING COMMAND: pop sduh
+Value popped: plaint
+PROCESSING COMMAND: create s5boa queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: create dyon stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop dyon
+Value popped: 7.2
+PROCESSING COMMAND: push ijab 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: push sore3 rankle
+PROCESSING COMMAND: pop s5boa
+Value popped: mujiks
+PROCESSING COMMAND: pop ikir
+ERROR: This list is empty!
+PROCESSING COMMAND: create ssit7 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push d9nom -9.6
+PROCESSING COMMAND: create s5wot stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push dhoe 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: create s9vox5 queue
+PROCESSING COMMAND: pop dyon
+Value popped: -1.4
+PROCESSING COMMAND: push ssit7 bowery
+PROCESSING COMMAND: create i6vug5 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop s6oar1
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop i6vug5
+Value popped: -2630
+PROCESSING COMMAND: pop ikir
+ERROR: This list is empty!
+PROCESSING COMMAND: push sall 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: push sduh lights
+PROCESSING COMMAND: pop sore3
+Value popped: rankle
+PROCESSING COMMAND: pop sgay9
+ERROR: This name does not exist!
+PROCESSING COMMAND: push s5boa fazing
+PROCESSING COMMAND: push dyon 25.7
+PROCESSING COMMAND: push ikir 9103
+PROCESSING COMMAND: create ikir queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push s5boa youngs
+PROCESSING COMMAND: push s5boa dabble
+PROCESSING COMMAND: push sduh yelled
+PROCESSING COMMAND: pop sore3
+ERROR: This list is empty!
+PROCESSING COMMAND: push dyon 11.4
+PROCESSING COMMAND: create dyon queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: create s7ens stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop ssit7
+Value popped: bowery
+PROCESSING COMMAND: push d0fed3 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s5wot
+Value popped: prills
+PROCESSING COMMAND: push s5boa syntax
+PROCESSING COMMAND: pop dyon
+Value popped: 11.4
+PROCESSING COMMAND: push s7ens beseem
+PROCESSING COMMAND: pop d5koi0
+ERROR: This name does not exist!
+PROCESSING COMMAND: create s5wot queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop i6zig8
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s0fub7
+Value popped: premen
+PROCESSING COMMAND: pop i6vug5
+Value popped: 6332
+PROCESSING COMMAND: push sore3 smiley
+PROCESSING COMMAND: push s7ens meshed
+PROCESSING COMMAND: pop d9nom
+Value popped: -9.6
+PROCESSING COMMAND: push sdah8 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s5boa
+Value popped: syntax
+PROCESSING COMMAND: pop i2nit
+ERROR: This name does not exist!
+PROCESSING COMMAND: push s7ens lechwe
+PROCESSING COMMAND: pop i3lag
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop selk
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop sore3
+Value popped: smiley
+PROCESSING COMMAND: pop s5boa
+Value popped: dabble
+PROCESSING COMMAND: pop dyon
+Value popped: 25.7
+PROCESSING COMMAND: pop s7ens
+Value popped: beseem
+PROCESSING COMMAND: push d4aah8 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop sduh
+Value popped: yelled
+PROCESSING COMMAND: pop s7ens
+Value popped: meshed
+PROCESSING COMMAND: push s7ens monist
+PROCESSING COMMAND: create ikir stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop s5wot
+Value popped: brucin
+PROCESSING COMMAND: pop s5wot
+Value popped: disarm
+PROCESSING COMMAND: create sore3 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop dhug1
+ERROR: This name does not exist!
+PROCESSING COMMAND: push d5kaf 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop sduh
+Value popped: lights
+PROCESSING COMMAND: push d9nom 9.3
+PROCESSING COMMAND: push s0fub7 amuses
+PROCESSING COMMAND: pop sduh
+ERROR: This list is empty!
+PROCESSING COMMAND: pop s1uts
+ERROR: This name does not exist!
+PROCESSING COMMAND: push d9nom 18.7
+PROCESSING COMMAND: pop s5wot
+Value popped: barman
+PROCESSING COMMAND: push s5wot regilt
+PROCESSING COMMAND: pop i6vug5
+Value popped: 4798
+PROCESSING COMMAND: push d9nom -15.5
+PROCESSING COMMAND: pop dyon
+Value popped: -2
+PROCESSING COMMAND: pop s7ens
+Value popped: lechwe
+PROCESSING COMMAND: pop s5wot
+Value popped: burgoo
+PROCESSING COMMAND: push sore3 farted
+PROCESSING COMMAND: create sore3 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: create i6vug5 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop d1ulu
+ERROR: This name does not exist!
+PROCESSING COMMAND: push s7ens axenic
+PROCESSING COMMAND: create s7ens stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: create s5boa stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: create ikir stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push s5boa pingos
+PROCESSING COMMAND: pop s0fub7
+Value popped: bolshy
+PROCESSING COMMAND: push ikir -9193
+PROCESSING COMMAND: push s0fub7 mopers
+PROCESSING COMMAND: push sduh bebops
+PROCESSING COMMAND: pop s9vox5
+ERROR: This list is empty!
+PROCESSING COMMAND: pop sraw
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop ssit7
+Value popped: snider
+PROCESSING COMMAND: push dset5 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s7ens
+Value popped: monist
+PROCESSING COMMAND: push s5wot faller
+PROCESSING COMMAND: pop s0fub7
+Value popped: amuses
+PROCESSING COMMAND: push s9vox5 moshed
+PROCESSING COMMAND: push skeg 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: push sore3 dobros
+PROCESSING COMMAND: push ssit7 asanas
+PROCESSING COMMAND: push sore3 relies
+PROCESSING COMMAND: push d4him0 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: push dyon 2.4
+PROCESSING COMMAND: push ikir 8436
+PROCESSING COMMAND: create s5boa queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop sduh
+Value popped: bebops
+PROCESSING COMMAND: pop shup
+ERROR: This name does not exist!
+PROCESSING COMMAND: push s9vox5 argufy
+PROCESSING COMMAND: push i6vug5 5950
+PROCESSING COMMAND: pop s5boa
+Value popped: pingos
+PROCESSING COMMAND: push ikir 5037
+PROCESSING COMMAND: push s5boa qualms
+PROCESSING COMMAND: create s7ens stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop i6bes0
+ERROR: This name does not exist!
+PROCESSING COMMAND: push dyon 14.9
+PROCESSING COMMAND: push dshh7 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop d9nom
+Value popped: -15.5
+PROCESSING COMMAND: pop ikir
+Value popped: 5037
+PROCESSING COMMAND: pop s8ana
+ERROR: This name does not exist!
+PROCESSING COMMAND: push d9nom -8.9
+PROCESSING COMMAND: create s5boa queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push ialp 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s3ani9
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s0fub7
+Value popped: mopers
+PROCESSING COMMAND: pop s7ens
+Value popped: axenic
+PROCESSING COMMAND: pop i6vug5
+Value popped: 6065
+PROCESSING COMMAND: pop s5wot
+Value popped: casino
+PROCESSING COMMAND: create dhep stack
+PROCESSING COMMAND: create dkaf1 stack
+PROCESSING COMMAND: push s5boa ankles
+PROCESSING COMMAND: pop ikir
+Value popped: 8436
+PROCESSING COMMAND: create s9vox5 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop s5boa
+Value popped: ankles
+PROCESSING COMMAND: pop itho9
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s9vox5
+Value popped: moshed
+PROCESSING COMMAND: push d9nom 27.4
+PROCESSING COMMAND: create sore3 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop d9nom
+Value popped: 27.4
+PROCESSING COMMAND: pop dgas4
+ERROR: This name does not exist!
+PROCESSING COMMAND: create dtis8 queue
+PROCESSING COMMAND: create d9nos stack
+PROCESSING COMMAND: push dyon 4.8
+PROCESSING COMMAND: pop s9vox5
+Value popped: argufy
+PROCESSING COMMAND: pop s0fub7
+ERROR: This list is empty!
+PROCESSING COMMAND: push sodd 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop d9nom
+Value popped: -8.9
+PROCESSING COMMAND: create dyon queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop i6vug5
+Value popped: 5950
+PROCESSING COMMAND: push dkaf1 -6.4
+PROCESSING COMMAND: pop s0upo
+ERROR: This name does not exist!
+PROCESSING COMMAND: create ibow3 stack
+PROCESSING COMMAND: push sduh reflew
+PROCESSING COMMAND: push dhep -9.8
+PROCESSING COMMAND: push dtis8 -14.8
+PROCESSING COMMAND: create ibow3 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push d3yuk 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: push i6vug5 6538
+PROCESSING COMMAND: pop dhep
+Value popped: -9.8
+PROCESSING COMMAND: create s5boa stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push s0fub7 yuppie
+PROCESSING COMMAND: pop s5boa
+Value popped: qualms
+PROCESSING COMMAND: pop dyon
+Value popped: 4.8
+PROCESSING COMMAND: pop ikir
+Value popped: -9193
+PROCESSING COMMAND: pop ssit7
+Value popped: asanas
+PROCESSING COMMAND: pop s0vid
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop sail
+ERROR: This name does not exist!
+PROCESSING COMMAND: create sore3 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push s5boa menses
+PROCESSING COMMAND: pop s9pat5
+ERROR: This name does not exist!
+PROCESSING COMMAND: create dyon queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop d9nos
+ERROR: This list is empty!
+PROCESSING COMMAND: push dtis8 -7.4
+PROCESSING COMMAND: pop stry
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s5boa
+Value popped: menses
+PROCESSING COMMAND: push i6vug5 -6506
+PROCESSING COMMAND: pop dteg
+ERROR: This name does not exist!
+PROCESSING COMMAND: push i6vug5 -9859
+PROCESSING COMMAND: push sduh dozers
+PROCESSING COMMAND: create s0fub7 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push dtis8 -10.2
+PROCESSING COMMAND: pop s7boy8
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s7ens
+ERROR: This list is empty!
+PROCESSING COMMAND: push ibow3 -291
+PROCESSING COMMAND: push d8sox8 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop ikir
+Value popped: 9103
+PROCESSING COMMAND: push itoo 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop dtis8
+Value popped: -14.8
+PROCESSING COMMAND: pop s7ens
+ERROR: This list is empty!
+PROCESSING COMMAND: push sore3 mazers
+PROCESSING COMMAND: pop s7ens
+ERROR: This list is empty!
+PROCESSING COMMAND: pop sduh
+Value popped: dozers
+PROCESSING COMMAND: create i6vug5 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push ssit7 aecium
+PROCESSING COMMAND: pop s5wot
+Value popped: ligase
+PROCESSING COMMAND: pop d9nom
+Value popped: 18.7
+PROCESSING COMMAND: create iyap stack
+PROCESSING COMMAND: pop dups
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s7ens
+ERROR: This list is empty!
+PROCESSING COMMAND: create dhep stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push ikir 1579
+PROCESSING COMMAND: push ikir -7723
+PROCESSING COMMAND: pop ibow3
+Value popped: -291
+PROCESSING COMMAND: push sdad 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop ssit7
+Value popped: aecium
+PROCESSING COMMAND: push sduh degame
+PROCESSING COMMAND: push d9nom -22.4
+PROCESSING COMMAND: pop dfig
+ERROR: This name does not exist!
+PROCESSING COMMAND: push s5wot aerugo
+PROCESSING COMMAND: push djay 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop smim
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop dyon
+Value popped: 14.9
+PROCESSING COMMAND: pop dtis8
+Value popped: -7.4
+PROCESSING COMMAND: pop ibow3
+ERROR: This list is empty!
+PROCESSING COMMAND: pop iyap
+ERROR: This list is empty!
+PROCESSING COMMAND: pop s7ens
+ERROR: This list is empty!
+PROCESSING COMMAND: push d9nos 18.5
+PROCESSING COMMAND: push s9vox5 lesson
+PROCESSING COMMAND: create s5boa queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop s9vox5
+Value popped: lesson
+PROCESSING COMMAND: push d5dag3 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: push sore3 salina
+PROCESSING COMMAND: push iyap -7604
+PROCESSING COMMAND: pop iyap
+Value popped: -7604
+PROCESSING COMMAND: create dtee stack
+PROCESSING COMMAND: pop ikir
+Value popped: -7723
+PROCESSING COMMAND: pop d9nos
+Value popped: 18.5
+PROCESSING COMMAND: push i6cru0 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: push ssit7 ceriph
+PROCESSING COMMAND: pop ihat
+ERROR: This name does not exist!
+PROCESSING COMMAND: push dhep 8.1
+PROCESSING COMMAND: push sore3 barned
+PROCESSING COMMAND: push ibow3 7810
+PROCESSING COMMAND: pop ssit7
+Value popped: ceriph
+PROCESSING COMMAND: push d9nos 15.7
+PROCESSING COMMAND: push s0fub7 elevon
+PROCESSING COMMAND: pop d0mim4
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop dhep
+Value popped: 8.1
+PROCESSING COMMAND: pop ssit7
+ERROR: This list is empty!
+PROCESSING COMMAND: create d3voe stack
+PROCESSING COMMAND: create s5wot queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: create ssit7 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop dhow
+ERROR: This name does not exist!
+PROCESSING COMMAND: push dkaf1 19.2
+PROCESSING COMMAND: pop s5wot
+Value popped: almner
+PROCESSING COMMAND: pop s9aby3
+ERROR: This name does not exist!
+PROCESSING COMMAND: push d9nom 29
+PROCESSING COMMAND: pop scob6
+ERROR: This name does not exist!
+PROCESSING COMMAND: push iyay 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: create sore3 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push i0pic 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop dtee
+ERROR: This list is empty!
+PROCESSING COMMAND: pop sduh
+Value popped: degame
+PROCESSING COMMAND: pop s0fub7
+Value popped: yuppie
+PROCESSING COMMAND: pop sdef
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop idid
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop d9nos
+Value popped: 15.7
+PROCESSING COMMAND: push sore3 bekiss
+PROCESSING COMMAND: create dkaf1 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop dhep
+ERROR: This list is empty!
+PROCESSING COMMAND: pop d3voe
+ERROR: This list is empty!
+PROCESSING COMMAND: pop dapo4
+ERROR: This name does not exist!
+PROCESSING COMMAND: push dyon -1.1
+PROCESSING COMMAND: pop dkaf1
+Value popped: 19.2
+PROCESSING COMMAND: push deek5 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop igoa9
+ERROR: This name does not exist!
+PROCESSING COMMAND: push s9vox5 rebeck
+PROCESSING COMMAND: push ikir -9748
+PROCESSING COMMAND: push d9nom -22.1
+PROCESSING COMMAND: create s5wot stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push s0fub7 dialog
+PROCESSING COMMAND: push s5boa velate
+PROCESSING COMMAND: create ibow3 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop s8gad
+ERROR: This name does not exist!
+PROCESSING COMMAND: push d9nos 29.4
+PROCESSING COMMAND: push dkaf1 15.5
+PROCESSING COMMAND: pop s7ens
+ERROR: This list is empty!
+PROCESSING COMMAND: create d9nos stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop s0fub7
+Value popped: elevon
+PROCESSING COMMAND: push s7ens mulcts
+PROCESSING COMMAND: pop d3voe
+ERROR: This list is empty!
+PROCESSING COMMAND: pop s5boa
+Value popped: velate
+PROCESSING COMMAND: create sduh queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop d3voe
+ERROR: This list is empty!
+PROCESSING COMMAND: push s4not8 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: create dtee stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop i6vug5
+Value popped: 6538
+PROCESSING COMMAND: push saff 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: create i1law queue
+PROCESSING COMMAND: push dfed 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: push s4tow 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop dtis8
+Value popped: -10.2
+PROCESSING COMMAND: pop i6vug5
+Value popped: -6506
+PROCESSING COMMAND: pop d3voe
+ERROR: This list is empty!
+PROCESSING COMMAND: pop s5pip
+ERROR: This name does not exist!
+PROCESSING COMMAND: create dyon stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push dkaf1 20.9
+PROCESSING COMMAND: create idin queue
+PROCESSING COMMAND: pop ssit7
+ERROR: This list is empty!
+PROCESSING COMMAND: pop slaw3
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s5boa
+Value popped: youngs
+PROCESSING COMMAND: pop i1law
+ERROR: This list is empty!
+PROCESSING COMMAND: create s0fub7 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: create d1mig2 stack
+PROCESSING COMMAND: push dhep 13.9
+PROCESSING COMMAND: pop ikir
+Value popped: -9748
+PROCESSING COMMAND: pop s9vox5
+Value popped: rebeck
+PROCESSING COMMAND: push dtee -26.5
+PROCESSING COMMAND: create dtis8 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push ssit7 penned
+PROCESSING COMMAND: push s5wot baulky
+PROCESSING COMMAND: pop d9nom
+Value popped: -22.1
+PROCESSING COMMAND: pop shyp
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s8kep
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop ikir
+Value popped: 1579
+PROCESSING COMMAND: create ikir stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: create d1mig2 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push d9nos 14.6
+PROCESSING COMMAND: create i6vug5 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: create ited queue
+PROCESSING COMMAND: pop dtee
+Value popped: -26.5
+PROCESSING COMMAND: push d1mig2 4.7
+PROCESSING COMMAND: push s7ens wheeze
+PROCESSING COMMAND: pop ikir
+ERROR: This list is empty!
+PROCESSING COMMAND: push dkaf1 19
+PROCESSING COMMAND: push dsea 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: push sore3 tsetse
+PROCESSING COMMAND: pop s5wot
+Value popped: dorsum
+PROCESSING COMMAND: pop dkaf1
+Value popped: 19
+PROCESSING COMMAND: push dkaf1 9.3
+PROCESSING COMMAND: pop s9vox5
+ERROR: This list is empty!
+PROCESSING COMMAND: push s7ens arrowy
+PROCESSING COMMAND: push ibow3 9464
+PROCESSING COMMAND: push i6vug5 -2224
+PROCESSING COMMAND: push i1law -6500
+PROCESSING COMMAND: create i1law queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop i6vug5
+Value popped: -9859
+PROCESSING COMMAND: push d9nom 23.3
+PROCESSING COMMAND: create dtee queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop sduh
+Value popped: reflew
+PROCESSING COMMAND: push ikir -5299
+PROCESSING COMMAND: push d1mig2 26.2
+PROCESSING COMMAND: push d9nom 3.1
+PROCESSING COMMAND: push sore3 scatts
+PROCESSING COMMAND: create s7ens queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push s0fub7 jetway
+PROCESSING COMMAND: pop s5kit
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop itry
+ERROR: This name does not exist!
+PROCESSING COMMAND: create sore3 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: create d9nom stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push i6vug5 -1902
+PROCESSING COMMAND: pop ited
+ERROR: This list is empty!
+PROCESSING COMMAND: push d9nom 10.3
+PROCESSING COMMAND: push s7ens valgus
+PROCESSING COMMAND: pop d9nom
+Value popped: 10.3
+PROCESSING COMMAND: pop d7ska8
+ERROR: This name does not exist!
+PROCESSING COMMAND: push dtis8 -2.6
+PROCESSING COMMAND: pop idin
+ERROR: This list is empty!
+PROCESSING COMMAND: push d1mig2 -1.1
+PROCESSING COMMAND: create dhep stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: create dtis8 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push dnut 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: push s0fub7 crampy
+PROCESSING COMMAND: pop i6vug5
+Value popped: -2224
+PROCESSING COMMAND: create iyap stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop dtis8
+Value popped: -2.6
+PROCESSING COMMAND: push d3voe 20.1
+PROCESSING COMMAND: pop s7ens
+Value popped: mulcts
+PROCESSING COMMAND: push ikir -876
+PROCESSING COMMAND: push dwiz 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s7ens
+Value popped: wheeze
+PROCESSING COMMAND: pop sore3
+Value popped: scatts
+PROCESSING COMMAND: push s9vox5 sayers
+PROCESSING COMMAND: create sduh queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: create dyon stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: create s0fub7 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push dtis8 25.2
+PROCESSING COMMAND: pop s0fub7
+Value popped: dialog
+PROCESSING COMMAND: create ssit7 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push d3voe -5.9
+PROCESSING COMMAND: push drev8 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: create s9vox5 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push iyap -8564
+PROCESSING COMMAND: create sthe9 queue
+PROCESSING COMMAND: push s0fub7 crease
+PROCESSING COMMAND: pop s5wot
+Value popped: crumps
+PROCESSING COMMAND: push dhep -29.5
+PROCESSING COMMAND: pop dtis8
+Value popped: 25.2
+PROCESSING COMMAND: pop dhep
+Value popped: -29.5
+PROCESSING COMMAND: pop sthe9
+ERROR: This list is empty!
+PROCESSING COMMAND: push idin 7105
+PROCESSING COMMAND: create d9nos queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push s0fub7 chiels
+PROCESSING COMMAND: create s1pht2 queue
+PROCESSING COMMAND: pop d3voe
+Value popped: -5.9
+PROCESSING COMMAND: pop idin
+Value popped: 7105
+PROCESSING COMMAND: pop sfee7
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s0fub7
+Value popped: jetway
+PROCESSING COMMAND: push sduh burnie
+PROCESSING COMMAND: pop d1mig2
+Value popped: -1.1
+PROCESSING COMMAND: push dkaf1 -19.9
+PROCESSING COMMAND: create s0fub7 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: create sthy9 queue
+PROCESSING COMMAND: pop dhep
+Value popped: 13.9
+PROCESSING COMMAND: push d9nom -24.4
+PROCESSING COMMAND: push dyon 28.8
+PROCESSING COMMAND: create d9rye queue
+PROCESSING COMMAND: pop d9nom
+Value popped: -24.4
+PROCESSING COMMAND: push sduh jammed
+PROCESSING COMMAND: pop iyap
+Value popped: -8564
+PROCESSING COMMAND: pop iyap
+ERROR: This list is empty!
+PROCESSING COMMAND: create dtis8 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop d9rye
+ERROR: This list is empty!
+PROCESSING COMMAND: push d9rye 15.5
+PROCESSING COMMAND: create sthy9 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push ibow3 -3683
+PROCESSING COMMAND: create i6vug5 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: create ited stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop i6vug5
+Value popped: -1902
+PROCESSING COMMAND: pop sthe9
+ERROR: This list is empty!
+PROCESSING COMMAND: pop idab
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop imyc
+ERROR: This name does not exist!
+PROCESSING COMMAND: push s5boa tundra
+PROCESSING COMMAND: create d3voe stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop sore3
+Value popped: tsetse
+PROCESSING COMMAND: push dage0 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: push s9vox5 drifts
+PROCESSING COMMAND: create sore3 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop dtis8
+ERROR: This list is empty!
+PROCESSING COMMAND: push ibow3 143
+PROCESSING COMMAND: push iyap 3940
+PROCESSING COMMAND: pop dtee
+ERROR: This list is empty!
+PROCESSING COMMAND: create ssit7 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: create ited queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: create iyap queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push s7ens mikado
+PROCESSING COMMAND: pop ibow3
+Value popped: 143
+PROCESSING COMMAND: pop dtis8
+ERROR: This list is empty!
+PROCESSING COMMAND: pop sthe9
+ERROR: This list is empty!
+PROCESSING COMMAND: push d3voe -2.2
+PROCESSING COMMAND: pop dkaf1
+Value popped: -19.9
+PROCESSING COMMAND: push idin 9561
+PROCESSING COMMAND: pop s5dol
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s5boa
+Value popped: tundra
+PROCESSING COMMAND: push ited 5846
+PROCESSING COMMAND: pop dyon
+Value popped: 28.8
+PROCESSING COMMAND: push ibow3 -9808
+PROCESSING COMMAND: push dhep 19.5
+PROCESSING COMMAND: pop iyap
+Value popped: 3940
+PROCESSING COMMAND: pop ited
+Value popped: 5846
+PROCESSING COMMAND: pop daha
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s5wot
+Value popped: italic
+PROCESSING COMMAND: push dtis8 29.6
+PROCESSING COMMAND: pop s9vox5
+Value popped: sayers
+PROCESSING COMMAND: push sthy9 bulbed
+PROCESSING COMMAND: push s9vox5 champs
+PROCESSING COMMAND: push s0fub7 scarce
+PROCESSING COMMAND: create ibow3 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: create s0fub7 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop d3voe
+Value popped: -2.2
+PROCESSING COMMAND: push iobi 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s5wot
+Value popped: whenas
+PROCESSING COMMAND: push ssit7 pawers
+PROCESSING COMMAND: push d9nos 3.6
+PROCESSING COMMAND: pop ibow3
+Value popped: -9808
+PROCESSING COMMAND: push sthy9 reests
+PROCESSING COMMAND: pop s7ens
+Value popped: arrowy
+PROCESSING COMMAND: push idin -8441
+PROCESSING COMMAND: push i1law -7897
+PROCESSING COMMAND: pop scan9
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s5wot
+Value popped: regilt
+PROCESSING COMMAND: push d1mig2 0.3
+PROCESSING COMMAND: pop i5god6
+ERROR: This name does not exist!
+PROCESSING COMMAND: push sore3 desorb
+PROCESSING COMMAND: pop s5boa
+Value popped: fazing
+PROCESSING COMMAND: pop sawa8
+ERROR: This name does not exist!
+PROCESSING COMMAND: push ibow3 -1528
+PROCESSING COMMAND: push iyap -9095
+PROCESSING COMMAND: pop s0fub7
+Value popped: crampy
+PROCESSING COMMAND: create dtis8 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: create ikir stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push ssit7 conium
+PROCESSING COMMAND: push s1pht2 boldly
+PROCESSING COMMAND: push dhep -19.4
+PROCESSING COMMAND: push s9vox5 skymen
+PROCESSING COMMAND: pop s5boa
+Value popped: raisin
+PROCESSING COMMAND: push i6vug5 963
+PROCESSING COMMAND: pop d2own
+ERROR: This name does not exist!
+PROCESSING COMMAND: push sore3 brawer
+PROCESSING COMMAND: push sthy9 miffed
+PROCESSING COMMAND: pop sthy9
+Value popped: bulbed
+PROCESSING COMMAND: pop dhep
+Value popped: -19.4
+PROCESSING COMMAND: create dtis8 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop ikir
+Value popped: -876
+PROCESSING COMMAND: create ikir queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop sduh
+Value popped: jammed
+PROCESSING COMMAND: push s2bee4 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop dtee
+ERROR: This list is empty!
+PROCESSING COMMAND: pop s0fub7
+Value popped: crease
+PROCESSING COMMAND: push s7ens swifts
+PROCESSING COMMAND: pop idin
+Value popped: 9561
+PROCESSING COMMAND: push d9nom -18.9
+PROCESSING COMMAND: pop i1law
+Value popped: -6500
+PROCESSING COMMAND: push sore3 barque
+PROCESSING COMMAND: push s9vox5 menhir
+PROCESSING COMMAND: push ibow3 2179
+PROCESSING COMMAND: push dkaf1 -10.9
+PROCESSING COMMAND: push sthy9 breams
+PROCESSING COMMAND: push dkaf1 -8.9
+PROCESSING COMMAND: create dhep stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop dtis8
+Value popped: 29.6
+PROCESSING COMMAND: push i6vug5 9361
+PROCESSING COMMAND: push ssit7 copays
+PROCESSING COMMAND: push s5wot rattly
+PROCESSING COMMAND: push d3voe 13.3
+PROCESSING COMMAND: push sbat 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: create d1mig2 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop sore3
+Value popped: barque
+PROCESSING COMMAND: create i1law queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push ipod 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: create sfas2 stack
+PROCESSING COMMAND: push d9nos 29.6
+PROCESSING COMMAND: create s5wot queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push i6vug5 6740
+PROCESSING COMMAND: pop sthy9
+Value popped: reests
+PROCESSING COMMAND: push dyon 11.6
+PROCESSING COMMAND: pop sore3
+Value popped: brawer
+PROCESSING COMMAND: pop sduh
+Value popped: burnie
+PROCESSING COMMAND: push d9rye 2.2
+PROCESSING COMMAND: pop ssit7
+Value popped: copays
+PROCESSING COMMAND: pop dtee
+ERROR: This list is empty!
+PROCESSING COMMAND: pop dtis8
+ERROR: This list is empty!
+PROCESSING COMMAND: pop dtee
+ERROR: This list is empty!
+PROCESSING COMMAND: pop sfas2
+ERROR: This list is empty!
+PROCESSING COMMAND: push ited -5706
+PROCESSING COMMAND: pop dhep
+Value popped: 19.5
+PROCESSING COMMAND: create ijag stack
+PROCESSING COMMAND: push dhep 0.9
+PROCESSING COMMAND: pop s5wot
+Value popped: faller
+PROCESSING COMMAND: push s5boa booing
+PROCESSING COMMAND: create s9vox5 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: create sthe9 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push ibaa1 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: push dyon 4.8
+PROCESSING COMMAND: push iyap -3690
+PROCESSING COMMAND: pop ssit7
+Value popped: conium
+PROCESSING COMMAND: pop dyon
+Value popped: 4.8
+PROCESSING COMMAND: pop snag4
+ERROR: This name does not exist!
+PROCESSING COMMAND: push i6vug5 -4056
+PROCESSING COMMAND: pop dyon
+Value popped: 11.6
+PROCESSING COMMAND: create iyap stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push dtee 17.2
+PROCESSING COMMAND: pop i0daw
+ERROR: This name does not exist!
+PROCESSING COMMAND: push sthe9 weaves
+PROCESSING COMMAND: pop sbet5
+ERROR: This name does not exist!
+PROCESSING COMMAND: push sfas2 plebes
+PROCESSING COMMAND: pop d9rye
+Value popped: 15.5
+PROCESSING COMMAND: pop dlay5
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s0fub7
+Value popped: chiels
+PROCESSING COMMAND: push sthe9 peeves
+PROCESSING COMMAND: push ssit7 cinder
+PROCESSING COMMAND: create d1mig2 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push ihem 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop d9awa4
+ERROR: This name does not exist!
+PROCESSING COMMAND: push sthy9 crepes
+PROCESSING COMMAND: push ikir 4477
+PROCESSING COMMAND: pop s9vox5
+Value popped: drifts
+PROCESSING COMMAND: pop dhep
+Value popped: 0.9
+PROCESSING COMMAND: push s5boa popsie
+PROCESSING COMMAND: push ited -4447
+PROCESSING COMMAND: pop s9vox5
+Value popped: champs
+PROCESSING COMMAND: push dtis8 0.6
+PROCESSING COMMAND: push d3voe -19.3
+PROCESSING COMMAND: create s7ens queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push sirk 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: create dboo queue
+PROCESSING COMMAND: pop dpoh0
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s0ags
+ERROR: This name does not exist!
+PROCESSING COMMAND: create d9rye queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: create d9nos queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop s4sim5
+ERROR: This name does not exist!
+PROCESSING COMMAND: create ssit7 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push d9nos 27.9
+PROCESSING COMMAND: create dhep queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop ited
+Value popped: -5706
+PROCESSING COMMAND: push sthy9 cheque
+PROCESSING COMMAND: pop idin
+Value popped: -8441
+PROCESSING COMMAND: pop dkaf1
+Value popped: -8.9
+PROCESSING COMMAND: create dhep queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push dhep -28.1
+PROCESSING COMMAND: pop dtee
+Value popped: 17.2
+PROCESSING COMMAND: create dpet9 queue
+PROCESSING COMMAND: push d9nom 7.6
+PROCESSING COMMAND: push s5boa rattle
+PROCESSING COMMAND: pop ssit7
+Value popped: cinder
+PROCESSING COMMAND: create ikir stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: create s0fub7 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop s0fub7
+Value popped: scarce
+PROCESSING COMMAND: push s0fub7 betons
+PROCESSING COMMAND: push i1law 6653
+PROCESSING COMMAND: create s7ens queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop dboo
+ERROR: This list is empty!
+PROCESSING COMMAND: pop dtee
+ERROR: This list is empty!
+PROCESSING COMMAND: pop ited
+Value popped: -4447
+PROCESSING COMMAND: pop sraj
+ERROR: This name does not exist!
+PROCESSING COMMAND: create d9rye stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop dpet9
+ERROR: This list is empty!
+PROCESSING COMMAND: push sfas2 locket
+PROCESSING COMMAND: create dkaf1 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: create d9rye queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop dtis8
+Value popped: 0.6
+PROCESSING COMMAND: pop s7ens
+Value popped: valgus
+PROCESSING COMMAND: create i1law queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop s1pht2
+Value popped: boldly
+PROCESSING COMMAND: pop seau
+ERROR: This name does not exist!
+PROCESSING COMMAND: push dkaf1 10.8
+PROCESSING COMMAND: push sore3 mullen
+PROCESSING COMMAND: create ibow3 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push smut2 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: push s5boa dunker
+PROCESSING COMMAND: push i1law -2421
+PROCESSING COMMAND: pop d1mig2
+Value popped: 0.3
+PROCESSING COMMAND: pop d9rye
+Value popped: 2.2
+PROCESSING COMMAND: pop sduh
+ERROR: This list is empty!
+PROCESSING COMMAND: pop iyap
+Value popped: -3690
+PROCESSING COMMAND: create shyp4 queue
+PROCESSING COMMAND: pop ijag
+ERROR: This list is empty!
+PROCESSING COMMAND: pop d9nom
+Value popped: 7.6
+PROCESSING COMMAND: push dkaf1 0.9
+PROCESSING COMMAND: create d1mig2 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: create ijag queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: create i6vug5 stack
+ERROR: This name already exists! 
+PROCESSING COMMAND: push sfas2 bounty
+PROCESSING COMMAND: pop d1mig2
+Value popped: 26.2
+PROCESSING COMMAND: pop sdag3
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s5boa
+Value popped: dunker
+PROCESSING COMMAND: pop d3voe
+Value popped: -19.3
+PROCESSING COMMAND: push sthy9 pitmen
+PROCESSING COMMAND: push ikir -8514
+PROCESSING COMMAND: pop s7ens
+Value popped: mikado
+PROCESSING COMMAND: pop i1law
+Value popped: -7897
+PROCESSING COMMAND: push dyon 9
+PROCESSING COMMAND: push i6vug5 -7222
+PROCESSING COMMAND: pop s0fub7
+Value popped: betons
+PROCESSING COMMAND: create ited queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: push dboo -2.8
+PROCESSING COMMAND: create s6fop queue
+PROCESSING COMMAND: push i7pax 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: push dtis8 12.6
+PROCESSING COMMAND: pop d3voe
+Value popped: 13.3
+PROCESSING COMMAND: push i0kir1 9001.01
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop i1jig
+ERROR: This name does not exist!
+PROCESSING COMMAND: pop s5boa
+Value popped: rattle
+PROCESSING COMMAND: create dhip queue
+PROCESSING COMMAND: create s9vox5 queue
+ERROR: This name already exists! 
+PROCESSING COMMAND: pop ijag
+ERROR: This list is empty!
